@@ -1,0 +1,5 @@
+const SYSTEMCODE = {
+  ERROR_CONFIG_NOT_FOUND: "NO_CONFIG_FILE",
+};
+
+export default SYSTEMCODE;
